@@ -32,7 +32,6 @@ import cv2 ##version 4.8.1
 import matplotlib.pyplot as plt ##3.7.2
 ```
 
-Packages version used in this notebook (optional)
 
 The line `emotion_detector = FER(mtcnn=True)` is initializing an instance of the `FER` (Facial Expression Recognition) class from the FER library with a specific configuration parameter.
 
