@@ -19,6 +19,7 @@ In recent years, there has been a growing interest in developing technologies ca
 ### FER (Facial Expression Recognition)
 
 The [FER library](https://github.com/priya-dwivedi/face_and_emotion_detection/tree/master/emotion_detector_models) is a dedicated library specifically designed for facial expression recognition. It provides pre-trained models capable of detecting emotions such as happiness, sadness, anger, and more. We will be using the FER library to streamline the process of emotion detection in this notebook.
+-Amir Hamza | contact@civildowntown.com
 
 ## Getting Started
 
@@ -29,7 +30,7 @@ To begin our exploration, we'll use a simple yet effective approach employing pr
 ```python
 from fer import FER #version 22.5.1
 import cv2 ##version 4.8.1
-import matplotlib.pyplot as plt ##3.7.2
+import matplotlib.pyplot as plt ##version 3.7.2
 ```
 
 
